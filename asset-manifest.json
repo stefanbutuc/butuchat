@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/butuchat/static/css/main.346e8421.chunk.css",
+    "main.js": "/butuchat/static/js/main.47c98caa.chunk.js",
+    "main.js.map": "/butuchat/static/js/main.47c98caa.chunk.js.map",
+    "runtime~main.js": "/butuchat/static/js/runtime~main.bc92a3ed.js",
+    "runtime~main.js.map": "/butuchat/static/js/runtime~main.bc92a3ed.js.map",
+    "static/js/2.3feda4b4.chunk.js": "/butuchat/static/js/2.3feda4b4.chunk.js",
+    "static/js/2.3feda4b4.chunk.js.map": "/butuchat/static/js/2.3feda4b4.chunk.js.map",
+    "index.html": "/butuchat/index.html",
+    "precache-manifest.4b69b6927718f9e913da9e35f73608cc.js": "/butuchat/precache-manifest.4b69b6927718f9e913da9e35f73608cc.js",
+    "service-worker.js": "/butuchat/service-worker.js",
+    "static/css/main.346e8421.chunk.css.map": "/butuchat/static/css/main.346e8421.chunk.css.map"
+  }
+}
