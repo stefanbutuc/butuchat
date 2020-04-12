@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "497cc91fb8ee6b832d6a54e118a1dca0",
+    "revision": "dbc3d64b38203ae4fd268a01acc8237d",
     "url": "/butuchat/index.html"
   },
   {
-    "revision": "2fbca580e35edcca7dc6",
+    "revision": "cade2a6e69cb0fe5150a",
     "url": "/butuchat/static/css/main.346e8421.chunk.css"
   },
   {
-    "revision": "4909cf8e2168e3caa944",
-    "url": "/butuchat/static/js/2.3feda4b4.chunk.js"
+    "revision": "8c9a6ff3cf4028114c39",
+    "url": "/butuchat/static/js/2.daed80b2.chunk.js"
   },
   {
-    "revision": "2fbca580e35edcca7dc6",
-    "url": "/butuchat/static/js/main.47c98caa.chunk.js"
+    "revision": "cade2a6e69cb0fe5150a",
+    "url": "/butuchat/static/js/main.0477ab08.chunk.js"
   },
   {
     "revision": "62e9e304e739f8227af0",
