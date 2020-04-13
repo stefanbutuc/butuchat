@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/butuchat/precache-manifest.3bc5d1aa7b464b512cf14d3da2f72b6a.js"
+  "/butuchat/precache-manifest.5f7aae3eb03a5de2f7615699fe148a7c.js"
 );
 
 self.addEventListener('message', (event) => {
