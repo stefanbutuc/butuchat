@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/butuchat/static/css/main.346e8421.chunk.css",
-    "main.js": "/butuchat/static/js/main.0477ab08.chunk.js",
-    "main.js.map": "/butuchat/static/js/main.0477ab08.chunk.js.map",
+    "main.js": "/butuchat/static/js/main.6acfe532.chunk.js",
+    "main.js.map": "/butuchat/static/js/main.6acfe532.chunk.js.map",
     "runtime~main.js": "/butuchat/static/js/runtime~main.bc92a3ed.js",
     "runtime~main.js.map": "/butuchat/static/js/runtime~main.bc92a3ed.js.map",
     "static/js/2.daed80b2.chunk.js": "/butuchat/static/js/2.daed80b2.chunk.js",
     "static/js/2.daed80b2.chunk.js.map": "/butuchat/static/js/2.daed80b2.chunk.js.map",
     "index.html": "/butuchat/index.html",
-    "precache-manifest.e34c4880f4f3b4369f0c6c02392af01b.js": "/butuchat/precache-manifest.e34c4880f4f3b4369f0c6c02392af01b.js",
+    "precache-manifest.17ead2e32c8e0a0e9823866be785daf8.js": "/butuchat/precache-manifest.17ead2e32c8e0a0e9823866be785daf8.js",
     "service-worker.js": "/butuchat/service-worker.js",
     "static/css/main.346e8421.chunk.css.map": "/butuchat/static/css/main.346e8421.chunk.css.map"
   }
